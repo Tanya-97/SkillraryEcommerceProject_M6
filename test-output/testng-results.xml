@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-02T11:23:46 IST" name="Default suite" finished-at="2023-09-02T11:24:07 IST" duration-ms="21539">
+    <groups>
+    </groups>
+    <test started-at="2023-09-02T11:23:46 IST" name="Default test" finished-at="2023-09-02T11:24:07 IST" duration-ms="21539">
+      <class name="TestNg.DataProvider">
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:TestNg.DataProvider@6253c26]" started-at="2023-09-02T11:23:46 IST" name="demo" data-provider="getData" finished-at="2023-09-02T11:23:54 IST" duration-ms="8354" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[assdffh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12assdffh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:TestNg.DataProvider@6253c26]" started-at="2023-09-02T11:23:54 IST" name="demo" data-provider="getData" finished-at="2023-09-02T11:24:00 IST" duration-ms="6386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[s123dffh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123jh546]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:TestNg.DataProvider@6253c26]" started-at="2023-09-02T11:24:00 IST" name="demo" data-provider="getData" finished-at="2023-09-02T11:24:07 IST" duration-ms="6695" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a#@$%fh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hbedf@!^%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- TestNg.DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
